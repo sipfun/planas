@@ -1,0 +1,10 @@
+{
+"name" : "planasapp",
+"description" : "mi primera aplicacion construida from sctratch",
+"version" : "0.0.0",
+"dependencies" : {
+    "express" : "*",
+    "body-parser" : "*",
+    "method-override" : "*"
+    }
+}
